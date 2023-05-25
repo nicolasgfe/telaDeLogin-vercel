@@ -42,7 +42,7 @@ export const Register = () => {
         <Main>
             <View>
                 <Form onSubmit={handleSubmit(handleRegister)}>
-                    <Title>CADASTRE-SE</Title>
+                    <Title>REGISTRE-SE</Title>
                     <Input
                         label="Nome Completo"
                         type="name"
